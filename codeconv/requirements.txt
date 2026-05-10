@@ -1,0 +1,3 @@
+keyboard
+luguru
+pywin32
